@@ -24,7 +24,7 @@ func main() {
 	// Test ConvertToHex with "hello world" -> Expect: 68 65 6c 6c 6f 20 77 6f 72 6c 64
 	ConvertToHex("hello world")
 
-	// Test ConvertToHex with "Welcome" -> Expect:
+	// Test ConvertToHex with "Welcome" -> Expect: 57 65 6C 63 6F 6D 65
 	ConvertToHex("Welcome")
 
 }
